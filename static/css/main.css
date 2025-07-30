@@ -1,0 +1,16 @@
+
+.bg-yellow {
+    background-color: yellow !important;
+  }
+body{
+  background-color:#FFA500 !important;
+}
+#total-orders{
+  background-color:#1E90FF;
+}
+#orders-delivered{
+ background-color:#ADD8E6; 
+}
+#orders-pending{
+  background-color:#2E8B57;
+}
