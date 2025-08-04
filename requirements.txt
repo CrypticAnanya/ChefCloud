@@ -35,7 +35,6 @@ cycler==0.12.1
 Cython==3.1.2
 debugpy==1.8.12
 decorator==5.1.1
-deepface==0.0.93
 defusedxml==0.7.1
 distro==1.9.0
 Django==5.1.5
@@ -280,6 +279,7 @@ wrapt==1.17.2
 wsproto==1.2.0
 yarl==1.20.1
 yfinance==0.2.61
+
 
 
 
