@@ -209,7 +209,6 @@ python-json-logger==3.2.1
 pyttsx3==2.98
 pytweening==1.2.0
 pytz==2024.2
-pywin32==308
 PyYAML==6.0.2
 pyzmq==26.2.1
 referencing==0.36.2
@@ -285,5 +284,6 @@ wrapt==1.17.2
 wsproto==1.2.0
 yarl==1.20.1
 yfinance==0.2.61
+
 
 
